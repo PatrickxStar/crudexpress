@@ -8,7 +8,7 @@
     "start": "node --watch app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Patrick Xiong <pxstiegler@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
